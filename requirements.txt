@@ -96,7 +96,6 @@ toml==0.10.2
 tornado==6.1
 traitlets==5.0.5
 typing-extensions==3.7.4.3
-UNKNOWN==0.0.0
 urllib3==1.25.10
 virtualenv==20.4.4
 virtualenv-clone==0.5.4
