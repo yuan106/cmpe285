@@ -1,5 +1,4 @@
 aiohttp==3.7.4.post0
-alpha-vantage==2.3.1
 appdirs==1.4.4
 appnope==0.1.0
 argon2-cffi==20.1.0
@@ -25,8 +24,6 @@ Flask==1.1.2
 flask-marshmallow==0.14.0
 Flask-SQLAlchemy==2.5.1
 greenlet==1.0.0
-grpcio==1.32.0
-grpcio-tools==1.32.0
 gunicorn==20.0.4
 idna==2.10
 ipykernel==5.3.4
