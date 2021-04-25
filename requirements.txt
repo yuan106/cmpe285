@@ -24,6 +24,8 @@ Flask==1.1.2
 flask-marshmallow==0.14.0
 Flask-SQLAlchemy==2.5.1
 greenlet==1.0.0
+grpcio==1.32.0
+grpcio-tools==1.32.0
 gunicorn==20.0.4
 idna==2.10
 ipykernel==5.3.4
@@ -100,6 +102,5 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
-yahoo-finance==1.4.0
 yarl==1.6.3
 yfinance==0.1.59
